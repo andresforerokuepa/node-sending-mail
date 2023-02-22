@@ -1,0 +1,10 @@
+{
+    "service":"gmail",
+    "auth":{
+        "type":"OAuth2",
+        "user":"saquerrigan@gmail.com",
+        "clientId":"185183417506-6harm2b9ka0l1lb9h68lr7scjmukrg2a.apps.googleusercontent.com",
+        "clientSecret":"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",
+        "refreshToken":"1//04hVbOicPfhx3CgYIARAAGAQSNwF-L9IrlW-CBkl-nYinxydSVENDgbX7IC06UPhLLZYU9JZ7icR8s3c__c0XLvUNoW8T76JAyyg"
+    }
+}
